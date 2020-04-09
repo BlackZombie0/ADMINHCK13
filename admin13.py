@@ -19,10 +19,7 @@ print ('''
 |  _ \| | | |/ _ \| ____| \ | |_ _\ \/ / / |___ / 
 | |_) | |_| | | | |  _| |  \| || | \  /  | | |_ \ 
 |  __/|  _  | |_| | |___| |\  || | /  \ _| |___) |
-|_|   |_| |_|\___/|_____|_| \_|___/_/\_(_)_|____/  ''')
-
- print (''' author >> PHOENIX >> team >> FR13NDS ''')
-       
+|_|   |_| |_|\___/|_____|_| \_|___/_/\_(_)_|____/  ''')       
 print ('''\n  I am not responsible for your shit and if you get some error while
  running admin13, there are good chances that target isn't responding.\n''')
 print ('\033[1;31m--------------------------------------------------------------------------\033[1;m\n')
